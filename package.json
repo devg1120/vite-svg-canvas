@@ -1,0 +1,17 @@
+{
+  "name": "vite-svg-canvas",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite --host --port 3000",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "devDependencies": {
+    "vite": "^3.0.7"
+  },
+  "dependencies": {
+    "@svgedit/svgcanvas": "^7.1.6"
+  }
+}
